@@ -1,0 +1,5 @@
+cluster,Clay_gkg_level,Sand_gkg_level,OM_gkg_level,CEC_Ph7_mmolkg_level,V_pct_level,soil_legend
+1,low,high,low,low,low,"low-clay, high-sand, low-OM, low-CEC, low-V%"
+2,high,medium,high,unknown,unknown,"high-clay, medium-sand, high-OM"
+3,medium,low,medium,medium,medium,"medium-clay, low-sand, medium-OM, medium-CEC, medium-V%"
+4,high,low,unknown,high,high,"high-clay, low-sand, high-CEC, high-V%"
